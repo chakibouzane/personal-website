@@ -125,6 +125,11 @@
 				"projectTitle": "Tic Tac Fun",
 				"description": "Developed a live, interactive collection of Tic-Tac-Toe game variations, the website is attracting over 2,000 daily visitors (by the time of writing this).",
 				"keyFeatures": "Classic and innovative Tic-Tac-Toe variations, real-time multiplayer gameplay, responsive design, seamless user experience across devices, and integration with Supabase for backend services."
+			},
+			"project17": {
+				"projectTitle": "Spam Review Detection (NLP & Machine Learning)",
+				"description": "Machine learning project classifying Yelp reviews of Chicago hotels and restaurants as spam or not, combining text and metadata features.",
+				"keyFeatures": "Text cleaning & NLP preprocessing, TF-IDF feature engineering, sentiment analysis, and benchmarking of Logistic Regression, Random Forest, and XGBoost classifiers."
 			}
 		}
 	},

@@ -4,6 +4,15 @@
 </script>
 
 <ProjectCard
+	projectTitle={$_('projectsSection.projectsContent.project17.projectTitle')}
+	description={$_('projectsSection.projectsContent.project17.description')}
+	keyFeatures={$_('projectsSection.projectsContent.project17.keyFeatures')}
+	techStack="Python, Scikit-learn, XGBoost, Pandas, NLTK, TextBlob."
+	codeURL="https://github.com/chakibouzane/Machine-Learning-Spam-Detection"
+	previewURL=""
+/>
+
+<ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project15.projectTitle')}
 	description={$_('projectsSection.projectsContent.project15.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project15.keyFeatures')}

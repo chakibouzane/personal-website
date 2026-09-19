@@ -125,6 +125,11 @@
 				"projectTitle": "Tic Tac Fun",
 				"description": "J’ai développé une collection interactive et en temps réel de variantes du jeu Morpion (X/O), attirant plus de 2 000 visiteurs par jour (au moment de la rédaction).",
 				"keyFeatures": "Variantes classiques et innovantes du jeu Morpion (X/O), gameplay multijoueur en temps réel, design responsive, expérience utilisateur fluide sur tous les appareils, et intégration de Supabase pour les services backend."
+			},
+			"project17": {
+				"projectTitle": "Détection de Spam (NLP & Machine Learning)",
+				"description": "Projet de machine learning classifiant les avis Yelp d'hôtels et restaurants de Chicago comme spam ou non, combinant texte et métadonnées.",
+				"keyFeatures": "Nettoyage de texte & prétraitement NLP, extraction TF-IDF, analyse de sentiment, et comparaison de Régression Logistique, Random Forest et XGBoost."
 			}
 		}
 	},
