@@ -36,7 +36,7 @@
 	keyFeatures={$_('projectsSection.projectsContent.project16.keyFeatures')}
 	techStack="Svelte 5, SvelteKit, Tailwind CSS, Supabase."
 	codeURL="https://github.com/chakibouzane/tictacfun"
-	previewURL="https://tictacfun.live"
+	previewURL="https://tictacfun.chakib.tech"
 />
 
 <ProjectCard
