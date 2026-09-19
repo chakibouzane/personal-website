@@ -117,9 +117,9 @@
 				"keyFeatures": "Aufgabe mit Beschreibung und Zeit hinzufügen, Aufgabe löschen, responsives Design, Dunkel- und Hellmodus."
 			},
 			"project15": {
-				"projectTitle": "Roboterauto",
-				"description": "Dies war ein webbasiertes ferngesteuertes Auto, das im Rahmen meines interdisziplinären Informatikprojekts im 4. Studienjahr zusammen mit drei meiner Freunde entwickelt wurde.",
-				"keyFeatures": "Fernsteuerung des Autos zum Vorwärts- und Rückwärtsfahren, Rechts- und Linksdrehen, Hinderniserkennung mit einem Ultraschallsensor (HC-SR04), 180°-Kameraansicht dank einer ferngesteuerten Servomotorsteuerung (nur die Kamera dreht sich, das Auto bleibt stehen), Blitzsteuerung für Sichtbarkeit bei Dunkelheit, Objekterkennung mit YOLO implementiert, ESP32 fungiert als Webserver, um die Webseite für den Fernzugriff bereitzustellen."
+				"projectTitle": "Ferngesteuerter Auto-Roboter mit Objekterkennung (Embedded Systems)",
+				"description": "Webbasiertes ferngesteuertes Auto-Projekt, entwickelt im Rahmen meines interdisziplinären Studienprojekts im 4. Studienjahr Informatik.",
+				"keyFeatures": "Ferngesteuerte Bewegung des Fahrzeugs, Hinderniserkennung mittels Ultraschallsensor (HC-SR04), 180°-Kamerablick durch einen ferngesteuerten Servomotor, Blitzsteuerung für Sichtbarkeit bei Dunkelheit, Objekterkennung mit YOLO, ESP32 als Webserver zum Hosten und Bereitstellen der Webseite für den Fernzugriff."
 			},
 			"project16": {
 				"projectTitle": "Tic Tac Fun",

@@ -4,6 +4,15 @@
 </script>
 
 <ProjectCard
+	projectTitle={$_('projectsSection.projectsContent.project15.projectTitle')}
+	description={$_('projectsSection.projectsContent.project15.description')}
+	keyFeatures={$_('projectsSection.projectsContent.project15.keyFeatures')}
+	techStack="ESP32-CAM, Arduino Motor Shield, HTML & JS for web interface, YOLO model."
+	codeURL="https://github.com/boite-informatique/Car-Robot"
+	previewURL="https://github.com/boite-informatique/Car-Robot-docs/blob/main/présentation.pdf"
+/>
+
+<ProjectCard
 	projectTitle={$_('projectsSection.projectsContent.project8.projectTitle')}
 	description={$_('projectsSection.projectsContent.project8.description')}
 	keyFeatures={$_('projectsSection.projectsContent.project8.keyFeatures')}
@@ -131,13 +140,4 @@
 	techStack="Svelte, Tailwind CSS, DaisyUI."
 	codeURL="https://github.com/chakibouzane/svelte-todo-app"
 	previewURL="https://todo-svelte-app.netlify.app"
-/> -->
-
-<!-- <ProjectCard
-	projectTitle={$_('projectsSection.projectsContent.project15.projectTitle')}
-	description={$_('projectsSection.projectsContent.project15.description')}
-	keyFeatures={$_('projectsSection.projectsContent.project15.keyFeatures')}
-	techStack="ESP32-CAM, Arduino Motor Shield, HTML and Vanilla JS for the web interface, YOLO model."
-	codeURL="https://github.com/boite-informatique/Car-Robot"
-	previewURL="https://github.com/boite-informatique/Car-Robot-docs/blob/main/présentation.pdf"
 /> -->

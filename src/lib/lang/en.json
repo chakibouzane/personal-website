@@ -117,9 +117,9 @@
 				"keyFeatures": "Add task with description and time, delete task, responsive design, dark and light mode."
 			},
 			"project15": {
-				"projectTitle": "Robot Car",
-				"description": "This was a web-based remote-controlled car project developed as part of my 4th-year multidisciplinary Computer Science university project, in collaboration with three of my friends.",
-				"keyFeatures": "Remotely controlling the car to go forward, backward, turn right, and turn left, obstacle detection using an ultrasonic sensor (HC-SR04), full 180° camera view via a remotely controlled servo motor (camera rotation only, the car remains stationary), flash control for visibility in the dark, object detection implemented with YOLO, ESP32 acting as a web server to host and serve the web page for remote access."
+				"projectTitle": "Web-Controlled Car Robot with Object Detection (Embedded Systems)",
+				"description": "Web-based remote-controlled car project developed as part of my 4th-year multidisciplinary Computer Science university project.",
+				"keyFeatures": "Remotely controlled car movement, obstacle detection using an ultrasonic sensor (HC-SR04), full 180° camera view via a remotely controlled servo motor, flash control for visibility in the dark, object detection with YOLO, ESP32 as a web server to host and serve the web page for remote access."
 			},
 			"project16": {
 				"projectTitle": "Tic Tac Fun",

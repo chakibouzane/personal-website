@@ -117,9 +117,9 @@
 				"keyFeatures": "Ajouter une tâche avec description et heure, supprimer une tâche, design responsive, mode sombre et clair."
 			},
 			"project15": {
-				"projectTitle": "Voiture Robot",
-				"description": "C’était un projet de voiture télécommandée via le web, développé dans le cadre de mon projet universitaire multidisciplinaire de 4ᵉ année en informatique, en collaboration avec trois de mes amis.",
-				"keyFeatures": "Contrôle à distance de la voiture pour avancer, reculer, tourner à droite et à gauche, détection d'obstacles avec un capteur à ultrasons (HC-SR04), vue à 180° grâce à une caméra contrôlée à distance via un servo-moteur (seule la caméra tourne, la voiture reste en place), contrôle du flash pour une visibilité dans l'obscurité, détection d'objets implémentée avec YOLO, ESP32 servant de serveur web pour héberger et fournir la page web accessible à distance."
+				"projectTitle": "Voiture Robot Télécommandée avec Détection d'Objets (Embedded Systems)",
+				"description": "Projet de voiture télécommandée via le web, développé dans le cadre de mon projet pluridisciplinaire de 4ème année en Informatique.",
+				"keyFeatures": "Contrôle à distance du déplacement de la voiture, détection d'obstacles via un capteur à ultrasons (HC-SR04), vue caméra à 180° grâce à un servomoteur télécommandé, contrôle du flash pour la visibilité dans l'obscurité, détection d'objets avec YOLO, ESP32 utilisé comme serveur web pour héberger et servir la page web d'accès à distance."
 			},
 			"project16": {
 				"projectTitle": "Tic Tac Fun",
