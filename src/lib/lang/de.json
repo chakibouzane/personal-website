@@ -12,7 +12,7 @@
 		"publications": "Publikationen"
 	},
 	"heroSection": {
-		"description": "<span class='text-gray-100'>Software-Ingenieur, der sich mit KI & Cybersicherheit beschäftigt.</span> Aktuell vertieft in Machine Learning und IoT-Sicherheit."
+		"description": "<span class='text-gray-100'>Software-Ingenieur, interessiert an der Schnittstelle von KI, IoT & Robotik.</span> Aktuell vertieft in Machine Learning für IoT & Roboter."
 	},
 	"publicationSection": {
 		"title": "Publikationen"
@@ -21,7 +21,7 @@
 		"title": "Über mich",
 		"intro": "Hallo, ich bin Chakib Ouzane, Informatik-Absolvent mit einem Master-Abschluss und einem Staatlichen Ingenieurdiplom in Computersystemtechnik von der ESI SBA, Algerien.",
 		"portfolio": "Ich bin Software-Ingenieur mit einer Leidenschaft für effiziente Backend-Systeme in Kombination mit intuitiven Frontend, um nahtlose Full-Stack-Lösungen zu schaffen.",
-		"goals": "Während meines Abschlusspraktikums im Bereich Forschung am CESI LINEACT Research Lab in Aix-en-Provence, Frankreich, kam ich erstmals mit Forschung in Berührung und arbeitete an der Sicherheit von IoT. Ich beschäftigte mich mit der Absicherung von RPL-Netzwerken und schlug ein auf Federated Learning basierendes Framework zur Erkennung von Routing-Angriffen in RPL. Diese Arbeit führte zur Autorenschaft an Forschungsarbeiten, und ich vertiefe mich derzeit weiter in Machine Learning und Cybersicherheit, mit wachsendem Interesse an einer Forschungslaufbahn.",
+		"goals": "Während meines Abschlusspraktikums im Bereich Forschung am CESI LINEACT Research Lab in Aix-en-Provence, Frankreich, kam ich erstmals mit Forschung in Berührung und arbeitete an der Sicherheit von IoT. Ich beschäftigte mich mit der Absicherung von RPL-Netzwerken und schlug ein auf Federated Learning basierendes Framework vor, in dem verteilte Geräte gemeinsam lernen, Routing-Anomalien zu erkennen. Diese Arbeit führte zur Autorenschaft an Forschungsarbeiten, von denen eine mit einem Best Paper Award ausgezeichnet wurde. Ich vertiefe mich derzeit weiter in Machine Learning für IoT und Robotik, mit wachsendem Interesse an der Forschung.",
 		"additionalInterests": "Neben der Webentwicklung interessiere ich mich auch für Netzwerke und IoT, und ich hatte die Gelegenheit, diese Technologien in Universitätslaboren zu testen.",
 		"CV": "Lebenslauf"
 	},

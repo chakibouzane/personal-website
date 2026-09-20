@@ -12,7 +12,7 @@
 		"publications": "Publications"
 	},
 	"heroSection": {
-		"description": "<span class='text-gray-100'>Ingénieur Logiciel, explorant l'IA & la Cybersécurité.</span> Actuellement plongé dans le Machine Learning et la Sécurité IoT."
+		"description": "<span class='text-gray-100'>Ingénieur Logiciel, intéressé par l'intersection de l'IA, l'IoT & la Robotique.</span> Actuellement plongé dans le Machine Learning pour l'IoT et les Robots."
 	},
 	"publicationSection": {
 		"title": "Publications"
@@ -21,7 +21,7 @@
 		"title": "À propos de moi",
 		"intro": "Bonjour, je suis Chakib Ouzane, diplômé en informatique, titulaire d'un Master et d'un Diplôme d'Ingénieur d'État en Ingénierie des Systèmes Informatiques de l'ESI SBA, Algérie.",
 		"portfolio": "Je suis ingénieur logiciel, passionné par la conception de systèmes backend efficaces, associés à des interfaces frontend intuitives, pour créer des solutions full-stack cohérentes.",
-		"goals": "Lors de mon stage de recherche de fin d'études au laboratoire CESI LINEACT à Aix-en-Provence, en France, je me suis initié à la recherche, en travaillant sur la sécurité des protocoles réseau IoT. Je me suis concentré sur la sécurisation des réseaux RPL et j'ai proposé un cadre basé sur le Federated Learning pour la détection d'attaques de routage dans les environnements IoT reposant sur RPL. Ce travail m'a mené à rédiger des articles de recherche, et je me plonge aujourd'hui davantage dans le Machine Learning et la Cybersécurité, avec un intérêt grandissant pour la recherche.",
+		"goals": "Lors de mon stage de recherche de fin d'études au laboratoire CESI LINEACT à Aix-en-Provence, en France, je me suis initié à la recherche, en travaillant sur la sécurité des protocoles réseau IoT. Je me suis concentré sur la sécurisation des réseaux RPL et j'ai proposé un cadre basé sur le Federated Learning dans lequel des appareils distribués apprennent collaborativement à détecter des anomalies de routage. Ce travail m'a mené à rédiger des articles de recherche, dont l'un a reçu un Best Paper Award. Je me plonge aujourd'hui davantage dans le Machine Learning pour l'IoT et la robotique, avec un intérêt grandissant pour la recherche.",
 		"additionalInterests": "En plus du développement web, je m'intéresse également aux réseaux et à l'IoT, et j'ai eu l'occasion de tester ces technologies dans des laboratoires universitaires.",
 		"CV": "CV"
 	},

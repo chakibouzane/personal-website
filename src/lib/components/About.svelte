@@ -14,9 +14,9 @@
 		<p class="leading-relaxed md:leading-8 md:text-lg tracking-wide md:tracking-wider">
 			{@html $_('aboutSection.intro')}
 		</p>
-		<p class="leading-relaxed md:leading-8 md:text-lg tracking-wide md:tracking-wider">
+		<!-- <p class="leading-relaxed md:leading-8 md:text-lg tracking-wide md:tracking-wider">
 			{$_('aboutSection.portfolio')}
-		</p>
+		</p> -->
 		<p class="leading-relaxed md:leading-8 md:text-lg tracking-wide md:tracking-wider">
 			{$_('aboutSection.goals')}
 		</p>

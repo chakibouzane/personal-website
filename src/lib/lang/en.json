@@ -12,7 +12,7 @@
 		"publications": "Publications"
 	},
 	"heroSection": {
-		"description": "<span class='text-gray-100'>Software Engineer, exploring AI & Cybersecurity.</span> Currently diving into Machine Learning and IoT Security."
+		"description": "<span class='text-gray-100'>Software Engineer, interested in the intersection of AI, IoT & Robotics.</span> Currently diving into Machine Learning for IoT & Robots."
 	},
 	"publicationSection": {
 		"title": "Publications"
@@ -21,7 +21,7 @@
 		"title": "About Me",
 		"intro": "Hi, I'm Chakib Ouzane, a Computer Science graduate holding a Master's degree and a State Engineer Degree in Computer Systems Engineering from ESI SBA, Algeria.",
 		"portfolio": "I'm a software engineer with a passion for building efficient, scalable backend systems alongside intuitive frontend experiences to create seamless full-stack solutions.",
-		"goals": "During my final-year research internship at CESI LINEACT Research Lab in Aix-en-Provence, France, I got into research, working on Security in IoT Network Protocols. I focused on securing RPL networks and proposed a Federated Learning-based framework for detecting routing attacks in RPL-based IoT environments. This work led me to author research papers, and I'm now diving deeper into Machine Learning and Cybersecurity, with a growing interest in pursuing research.",
+		"goals": "During my final-year research internship at CESI LINEACT Research Lab in Aix-en-Provence, France, I got into research, working on Security in IoT Network Protocols. I focused on securing RPL networks and proposed a Federated Learning-based framework in which distributed devices collaboratively learn to detect routing anomalies. This work led me to author research papers, one of which received a Best Paper Award. I'm now diving deeper into Machine Learning for IoT and robotics, with a growing interest in pursuing research.",
 		"additionalInterests": "Alongside web development, I’m also interested in networking and IoT, and I’ve had the opportunity to experiment with these technologies in university labs.",
 		"CV": "Resume"
 	},
