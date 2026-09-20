@@ -14,11 +14,11 @@
 		<div class="flex flex-col gap-3 min-w-40">
 			<h6 class="font-semibold text-lg">{$_('skillsSection.languages')}</h6>
 			<ul class="list-disc list-inside">
-				<li>JavaScript / TypeScript</li>
+				<li>C / C++</li>
 				<li>Python</li>
-				<li>Java</li>
 				<li>R</li>
-				<li>SQL</li>
+				<li>Java</li>
+				<li>JavaScript / TypeScript</li>
 			</ul>
 		</div>
 
@@ -33,13 +33,13 @@
 			</ul>
 		</div>
 		<div class="flex flex-col gap-3 min-w-40">
-			<h6 class="font-semibold text-lg">{$_('skillsSection.cybersecurity')}</h6>
+			<h6 class="font-semibold text-lg">IoT & Robotics</h6>
 			<ul class="list-disc list-inside">
-				<li>IoT & Network Security</li>
-				<li>RPL Protocol & Threat Modeling</li>
-				<li>Intrusion & Anomaly Detection</li>
-				<li>Cryptography Algorithms</li>
-				<li>Blockchain</li>
+				<li>Raspberry Pi / Arduino</li>
+				<li>Embedded Systems</li>
+				<li>ROS / ROS 2</li>
+				<li>Motion & Trajectory Planning</li>
+				<li>Collision Avoidance (ORCA)</li>
 			</ul>
 		</div>
 		<div class="flex flex-col gap-3 min-w-40">
@@ -52,12 +52,12 @@
 			</ul>
 		</div>
 		<div class="flex flex-col gap-3 min-w-40">
-			<h6 class="font-semibold text-lg">{$_('skillsSection.databases')}</h6>
+			<h6 class="font-semibold text-lg">Mathematics</h6>
 			<ul class="list-disc list-inside">
-				<li>Supabase</li>
-				<li>MongoDB</li>
-				<li>PostgreSQL</li>
-				<li>Redis</li>
+				<li>Graph Theory</li>
+				<li>Linear Algebra</li>
+				<li>Probability & Stats</li>
+				<li>Diff. Equations</li>
 			</ul>
 		</div>
 		<div class="flex flex-col gap-3 min-w-40">
